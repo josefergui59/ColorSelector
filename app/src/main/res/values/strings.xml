@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ColorSelector</string>
+    <string name="tab_text_1">Catálogo</string>
+    <string name="tab_text_2">Crear Color</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="title_activity_catalogo_color">CatalogoColor</string>
+</resources>
