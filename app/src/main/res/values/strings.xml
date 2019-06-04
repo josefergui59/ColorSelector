@@ -1,7 +1,11 @@
 <resources>
-    <string name="app_name">ColorSelector</string>
+    <string name="app_name">Catálogo de Colores</string>
     <string name="tab_text_1">Catálogo</string>
-    <string name="tab_text_2">Crear Color</string>
+    <string name="tab_text_2">Crear</string>
     <string name="tab_text_3">Tab 3</string>
     <string name="title_activity_catalogo_color">CatalogoColor</string>
+    <string name="title_activity_ad_mob">AdMob</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-1215927287350625/4771490193</string>
+    <string name="admobID">ca-app-pub-1215927287350625~5154633578</string>
 </resources>

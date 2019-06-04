@@ -68,7 +68,7 @@ public class ContactAdapter extends RecyclerView.Adapter<ContactAdapter.ContactV
         return  strRetorno;
     }
     public void abrirMapa(final ContactInfo ci){
-        mensaje.mensajeSimpleColor(ci.name +"\n" + ci.colorHexa, ci.colorHexa);
+        mensaje.mensajeSimpleColor(ci.name ,  ci.colorHexa, ci.colorHexa);
 
        /* String[] arrLocation = ci.location.split("\\|");
         Intent intent = new Intent(context.getApplicationContext(), MapsActivity.class);
