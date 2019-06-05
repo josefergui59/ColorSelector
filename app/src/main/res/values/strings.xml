@@ -4,8 +4,13 @@
     <string name="tab_text_2">Crear</string>
     <string name="tab_text_3">Tab 3</string>
     <string name="title_activity_catalogo_color">CatalogoColor</string>
-    <string name="title_activity_ad_mob">AdMob</string>
 
-    <string name="banner_ad_unit_id">ca-app-pub-1215927287350625/4771490193</string>
     <string name="admobID">ca-app-pub-1215927287350625~5154633578</string>
+    <string name="banner_ad_unit_id">ca-app-pub-1215927287350625/4771490193</string>
+    <string name="intersticiales_ad_unit_id">ca-app-pub-1215927287350625/5843833051</string>
+    <!-- Anuncio Prueba
+    <string name="banner_ad_unit_id"> ca-app-pub-3940256099942544/6300978111</string>
+    <string name="intersticiales_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+    -->
+
 </resources>
